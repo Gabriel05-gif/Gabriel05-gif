@@ -25,3 +25,5 @@
 ####
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel05-gif&layout=compact)
+
+![snake gif](https://github.com/Gabriel05-gif/Gabriel05-gif/blob/output/github-contribution-grid-snake.gif)
