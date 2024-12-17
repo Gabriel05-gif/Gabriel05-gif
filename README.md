@@ -24,9 +24,5 @@
 <div/
 
 
-#####
-
-
-
 ![snake gif](https://github.com/Gabriel05-gif/Gabriel05-gif/blob/output/github-contribution-grid-snake.gif)
     
