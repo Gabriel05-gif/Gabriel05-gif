@@ -10,8 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pereira-de-sousa-5552b2244/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel05-gif&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel05-gif&layout=compact)
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel05-gif&layout=compact&theme=dark)
 ### Tecnologias que uso e estudo atualmente:
 
 <div style="display: inline_block"><br>
